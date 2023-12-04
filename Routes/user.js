@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Student = require('../models/userSchema');
+const Student = require('../Models/userSchemea');
 
 
 // Create a student
